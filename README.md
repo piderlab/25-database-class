@@ -19,7 +19,7 @@
 PCにgit CLIをインストール済みの方は、以下のコマンドを実行することでデータをダウンロードすることができます。
 
 ```bash
-git clone git@github.com:piderlab/24-databese-class.git
+git clone git@github.com:piderlab/25-database-class.git
 ```
 
 ## 扱うデータについて
